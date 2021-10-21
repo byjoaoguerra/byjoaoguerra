@@ -1,7 +1,7 @@
 ### Olá 👋 Eu sou o João Guerra
 
 - 💻 Trabalho com edição de vídeo
-- 🌱 Estudando C / Java e HTML
+- 🌱 Estudando C / Java / HTML
 - 🤔 Procuro ajuda em aprender mais sobre linguagens de programação
 - 📫 Contacte-me: byjoaoguerra@gmail.com
 
