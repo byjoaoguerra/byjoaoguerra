@@ -12,6 +12,12 @@
 </div>
   
   
+ <body>
+   <h2> Linguagens que estou a estudar: </h1>
+   <p style="text-align:center/left/right;"></p>
+   <p style="margin-bottom:0;">
+  </body> 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Joao-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -23,6 +29,7 @@
   ##
   
 <div>
+  <a href="https://www.instagram.com/BYJOAOGUERRA/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
   
