@@ -8,12 +8,12 @@
 <div align="center">
   <a href="https://github.com/byjoaoguerra">
   <img height="180em" width="600" src="https://github-readme-stats.vercel.app/api?username=byjoaoguerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byjoaoguerra&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byjoaoguerra&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
  <body>
-   <h2> Linguagens que estou a estudar: </h1>
+   <h5> Linguagens que estou a estudar: </h5>
    <p style="text-align:center/left/right;"></p>
    <p style="margin-bottom:0;">
    <img align="right" alt="João-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/696518749703897128/900821058272239716/Webp.net-gifmaker.gif">
