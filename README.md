@@ -16,6 +16,7 @@
    <h2> Linguagens que estou a estudar: </h1>
    <p style="text-align:center/left/right;"></p>
    <p style="margin-bottom:0;">
+   <img align="right" alt="João-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/696518749703897128/900821058272239716/Webp.net-gifmaker.gif">
   </body> 
   
 <div style="display: inline_block"><br>
@@ -23,7 +24,6 @@
   <img align="center" alt="Joao-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Joao-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Joao-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
 </div>
   
   ##
