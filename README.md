@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/byjoaoguerra">
-  <img height="165em" width="480" src="https://github-readme-stats.vercel.app/api?username=byjoaoguerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="155em" width="480" src="https://github-readme-stats.vercel.app/api?username=byjoaoguerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175em" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byjoaoguerra&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
