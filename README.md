@@ -2,7 +2,7 @@
 
 - 💻 Trabalho com edição de vídeo e estou a estudar programação
 - 🌱 Estudo C / Java / HTML
-- 🤔 Procuro ajuda em aprender mais sobre linguagens de programação
+- 🤔 Quero aprender mais sobre linguagens de programação
 - 📫 Contacte-me: byjoaoguerra@gmail.com
 
 <div align="center">
